@@ -1,4 +1,4 @@
-[go](http://onixsat88.atwebpages.com){:target="_blank"}.
+[http://onixsat88.atwebpages.com/signup.php](http://onixsat88.atwebpages.com){:target="_blank"}.
 <h1 style="color:blue;">PHP MySQL User Signup Login System</h1>
 
 Um formulário de login e inscrição usando HTML, PHP e MySQL. Este formulário permite aos utilizadores registarem-se e iniciarem sessão. Todas as informações são armazenadas em um banco de dados MySQL. Após o login bem-sucedido, o usuário é redirecionado para seu painel. Eu gosto muito de fazer software! Por favor, se vir algum problema, dê-lhe a conhecer!
